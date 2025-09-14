@@ -1,3 +1,4 @@
+Repository under active development. Additional files will be committed once Git configuration issues are resolved. :)
 # RetentionRadar
 
 ## Setup
